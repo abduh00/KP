@@ -1,0 +1,35 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+.login-card {
+	margin-top: 10%;
+}
+
+.registration-card {
+	margin-top: 8%;
+}
+
+.btn-sm {
+	margin: 2px;
+}
+h1{
+	margin-top: 100px;
+}
+pre{
+	font-size: 15px;
+	font-family:sans-serif;
+}
+
+.icw {
+	color: white !important;
+}
+
+.custom-select {
+	width: 80px !important;
+}
